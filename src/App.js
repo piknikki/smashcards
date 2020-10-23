@@ -5,7 +5,7 @@ import CardList from "./CardList";
 
 
 function App() {
-    const [cards, setCards] = useState(sampleCards);
+    const cards = useState(sampleCards);
     return (
     <div className="App">
       <header className="App-header">
