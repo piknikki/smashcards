@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 10vmin;
+  height: 15vmin;
   pointer-events: none;
 }
 
@@ -20,6 +20,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.card {
+  background: #764665;
+  color: white;
 }
 
 @keyframes App-logo-spin {
